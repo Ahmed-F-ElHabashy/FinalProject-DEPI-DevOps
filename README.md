@@ -1,2 +1,2 @@
-# FinalProject-DEPI-DevOps
+# DEPI-FinalProject
 AutomatedBuildingWebsite-DevSecOps
